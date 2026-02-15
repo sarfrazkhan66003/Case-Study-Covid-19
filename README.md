@@ -55,10 +55,3 @@
   
 ### 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
-
-Fork the project
-Create a new branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a pull request
-
